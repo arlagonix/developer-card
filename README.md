@@ -33,7 +33,6 @@ Figma prototype: https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Busin
 - **NodeJS**
 - **Vite**
 - **Github Pages**
-  - Hosting
 
 ## 🔨 Build project
 

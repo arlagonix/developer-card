@@ -51,7 +51,7 @@ Figma prototype: https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Busin
   </tr>
   <tr>
     <td><code>npm&nbsp;run&nbsp;build</code></td>
-    <td>Иuilds the project, and outputs to the folder <code>./build</code></td>
+    <td>Builds the project, and outputs to the folder <code>./build</code></td>
   </tr>
   <tr>
     <td><code>npm&nbsp;run&nbsp;preview</code></td>

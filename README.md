@@ -47,7 +47,7 @@ Figma prototype: https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Busin
   </tr>
   <tr>
     <td><code>npm&nbsp;run&nbsp;dev</code></td>
-    <td>Ыtarts a local web server with HMR (Hot Module Replacement) for development</td>
+    <td>Starts a local web server with HMR (Hot Module Replacement) for development</td>
   </tr>
   <tr>
     <td><code>npm&nbsp;run&nbsp;build</code></td>

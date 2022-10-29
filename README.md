@@ -152,7 +152,7 @@ Although in Webpack I had much more control over how things are done under the h
 
 To put in short, it just works fine out of box and requires almost zero configuring. And works really fast
 
-<br>
+<hr>
 
 ### First time working with ReactJS
 
@@ -183,7 +183,7 @@ export default function App() {
 }
 ```
 
-<br>
+<hr>
 
 ### First time working with Styled Components
 

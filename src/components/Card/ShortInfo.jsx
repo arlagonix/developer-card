@@ -1,17 +1,11 @@
-import Button from "./Button";
+import Button from "../Button";
 import styled from "styled-components";
-import mailIcon from "../../static/icon-mail.svg";
-import linkedinIcon from "../../static/icon-linkedin.svg";
+import mailIcon from "../../../static/icon-mail.svg";
+import linkedinIcon from "../../../static/icon-linkedin.svg";
 
 const StyledHeader = styled.header`
   text-align: center;
   margin-bottom: 32px;
-
-  .header {
-    font-size: 25px;
-    color: ${({ theme }) => theme.colors.headerText};
-    font-weight: 700;
-  }
 
   .job-title {
     color: ${({ theme }) => theme.colors.jobTitle};
@@ -27,17 +21,29 @@ const StyledHeader = styled.header`
   }
 `;
 
+const StyledMainHeader = styled.h1`
+  font-size: 25px;
+  color: ${({ theme }) => theme.colors.headerText};
+  font-weight: 700;
+`;
+
+const StyledJobTitle = styled.p`
+  color: ${({ theme }) => theme.colors.jobTitle};
+`;
+
+// const Styled
+
 const StyledButtonContainer = styled.div`
   display: flex;
   gap: 16px;
   padding-top: 16px;
 `;
 
-export default function Info() {
+export default function ShortInfo() {
   return (
     <StyledHeader>
-      <h1 className="header">Laura Smith</h1>
-      <p className="job-title">Frontend Developer</p>
+      <StyledMainHeader>Laura Smith</StyledMainHeader>
+      <StyledJobTitle>Frontend Developer</StyledJobTitle>
       <a href="#" className="link">
         laurasmith.website
       </a>

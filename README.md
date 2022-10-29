@@ -28,6 +28,8 @@ Figma prototype: https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Busin
   - Semantic HTML
 - **CSS**
   - Styled Components
+- **JavaScript**
+  - ReactJS
 - **NodeJS**
 - **Vite**
 - **Github Pages**

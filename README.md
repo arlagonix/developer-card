@@ -1,6 +1,6 @@
 <h1 align="center">Frontend Developer Card</h1>
 <p align="center">
-  Made with <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>ReactJS</code>, <code>Styled Components</code>
+  Made with <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>ReactJS</code>, <code>styled-components</code>
 </p>
 <p align="center">
   Built with <code>Vite</code>

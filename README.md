@@ -14,7 +14,7 @@
 
 This is a solution to the Scrimba React Course [challenge #1](https://scrimba.com/learn/learnreact/react-section-1-solo-project-coce646e88eea46f91af43ca4).
 
-The challenge is to build out a 3 Column Preview Card and get it looking as close to the design as possible.
+The challenge is to build out a Frontend Developer Card and get it looking as close to the design as possible.
 
 <p align="center">
   <img src="./docs/requirements.png" width="100%">

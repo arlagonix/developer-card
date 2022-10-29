@@ -1,6 +1,6 @@
 <h1 align="center">Frontend Developer Card</h1>
 <p align="center">
-  Made with <code>HTML</code>, <code>CSS</code>, <code>ReactJS</code>, <code>Styled Components</code>
+  Made with <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>ReactJS</code>, <code>Styled Components</code>
 </p>
 <p align="center">
   Built with <code>Vite</code>
@@ -144,9 +144,7 @@ Figma prototype: https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Busin
 
 ### First time working with Vite
 
-Quickly bundles results. Looks like everything works out of box, didn't have to configure much. Although this small project showed 60 performance in Google Chrome Lighthouse. Probably that's a React problem, but I'm not sure... Got used to have 100/100 on almost everything.
-
-Installation time was extremely quick. In under 10 secs it installed all packages. For comparison it required several minutes to install packages for create-react-app.
+Quickly bundles files into results. Looks like everything works out of box, didn't have to configure much. Installation time was extremely quick. In under 10 secs it installed all packages. For comparison it required several minutes to install packages for create-react-app.
 
 Although in Webpack I had much more control over how things are done under the hood.
 

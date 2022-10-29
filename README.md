@@ -220,8 +220,6 @@ Overall I enjoyed working with styles using Styled Components. HTML, JS and CSS 
 - Used createGlobalStyle for global styles
 - Used ThemeProvider to store all colors in one place and refer them from components
 
-### Other
-
 ## 🔗 Useful resources
 
 - [ReactJS Course](https://scrimba.com/learn/learnreact/) - Awesome free interactive course!

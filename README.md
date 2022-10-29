@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./docs/results/big.png" width="50%">
+  <img src="./docs/results/big.png" width="100%">
 </p>
 
 ## ℹ️ About
@@ -17,7 +17,7 @@ This is a solution to the Scrimba React Course [challenge #1](https://scrimba.co
 The challenge is to build out a 3 Column Preview Card and get it looking as close to the design as possible.
 
 <p align="center">
-  <img src="./docs/requirements.png" width="50%">
+  <img src="./docs/requirements.png" width="100%">
 </p>
 
 Figma prototype: https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card

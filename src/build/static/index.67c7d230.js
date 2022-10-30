@@ -80,6 +80,7 @@ Error generating stack: `+o.message+`
   border-radius: 4px;
   border-width: 1;
   transition: scale 0.3s;
+  font-weight: 500;
 
   display: flex;
   gap: 8px;
@@ -158,4 +159,4 @@ Error generating stack: `+o.message+`
   &:active {
     scale: 0.95;
   }
-`;function Km(){return ht(Um,{children:[oe("img",{src:Nm,alt:"Photo of a woman",width:({theme:e})=>e.sizes.maxWidth}),ht(Bm,{children:[ht(Vm,{children:[oe(Hm,{children:"Laura Smith"}),oe(Wm,{children:"Frontend Developer"}),oe(Qm,{href:"#",children:"laurasmith.website"}),ht(Ym,{children:[ht(Ra,{href:"#",children:[yn.letter_16px," Letter"]}),ht(Ra,{href:"#",primary:!0,children:[yn.linkedin_16px," Linkedin"]})]})]}),ht(La,{children:[oe(Aa,{children:"About"}),oe(Oa,{children:"I am a frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn."})]}),ht(La,{children:[oe(Aa,{children:"Interests"}),oe(Oa,{children:"Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic."})]})]}),ht(Gm,{children:[oe(sl,{href:"#",children:yn.twitter_25px}),oe(sl,{href:"#",children:yn.facebook_25px}),oe(sl,{href:"#",children:yn.instagram_25px}),oe(sl,{href:"#",children:yn.github_25px})]})]})}function Xm(){return ht(xm,{theme:Pm,children:[oe(_m,{}),oe(Km,{})]})}si.createRoot(document.getElementById("root")).render(oe(pn.StrictMode,{children:oe(Xm,{})}));
+`;function Km(){return ht(Um,{children:[oe("img",{src:Nm,alt:"Photo of a woman",width:({theme:e})=>e.sizes.maxWidth}),ht(Bm,{children:[ht(Vm,{children:[oe(Hm,{children:"Laura Smith"}),oe(Wm,{children:"Frontend Developer"}),oe(Qm,{href:"#",children:"laurasmith.website"}),ht(Ym,{children:[ht(Ra,{href:"#",children:[yn.letter_16px," Email"]}),ht(Ra,{href:"#",primary:!0,children:[yn.linkedin_16px," Linkedin"]})]})]}),ht(La,{children:[oe(Aa,{children:"About"}),oe(Oa,{children:"I am a frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn."})]}),ht(La,{children:[oe(Aa,{children:"Interests"}),oe(Oa,{children:"Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic."})]})]}),ht(Gm,{children:[oe(sl,{href:"#",children:yn.twitter_25px}),oe(sl,{href:"#",children:yn.facebook_25px}),oe(sl,{href:"#",children:yn.instagram_25px}),oe(sl,{href:"#",children:yn.github_25px})]})]})}function Xm(){return ht(xm,{theme:Pm,children:[oe(_m,{}),oe(Km,{})]})}si.createRoot(document.getElementById("root")).render(oe(pn.StrictMode,{children:oe(Xm,{})}));

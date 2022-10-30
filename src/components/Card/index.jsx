@@ -27,7 +27,7 @@ export default function Card() {
           <StyledJobTitle>Frontend Developer</StyledJobTitle>
           <StyledSiteLink href="#">laurasmith.website</StyledSiteLink>
           <StyledButtonContainer>
-            <Button href="#">{Icons.letter_16px} Letter</Button>
+            <Button href="#">{Icons.letter_16px} Email</Button>
             <Button href="#" primary>
               {Icons.linkedin_16px} Linkedin
             </Button>

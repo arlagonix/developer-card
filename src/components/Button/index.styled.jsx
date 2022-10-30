@@ -8,6 +8,7 @@ const StyledButton = styled.a`
   border-radius: 4px;
   border-width: 1;
   transition: scale 0.3s;
+  font-weight: 500;
 
   display: flex;
   gap: 8px;

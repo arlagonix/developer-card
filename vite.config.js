@@ -7,7 +7,7 @@ export default defineConfig({
   root: "src",
   base: "./",
   build: {
-    outDir: "build",
+    outDir: "../build",
     emptyOutDir: true,
     assetsDir: "static",
   },

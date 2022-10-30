@@ -168,15 +168,7 @@ export default function App() {
   return (
     <ThemeProvider theme={theme}>
       <GlobalStyle />
-      <Card>
-        <Photo />
-        <InfoContainer>
-          <Info />
-          <Article type="about" />
-          <Article type="interests" />
-        </InfoContainer>
-        <Footer />
-      </Card>
+      <Card />
     </ThemeProvider>
   );
 }
@@ -187,32 +179,6 @@ export default function App() {
 ### First time working with Styled Components
 
 It required some time to understand how it works. I just create a styled component, then write a main component that returns that styled component
-Like this:
-
-```jsx
-import styled from "styled-components";
-import IconLink from "./IconLink";
-
-const StyledFooter = styled.footer`
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 16px;
-  background: ${({ theme }) => theme.colors.footerBackground};
-  padding: 20px;
-`;
-
-export default function Footer() {
-  return (
-    <StyledFooter>
-      <IconLink type="twitter" />
-      <IconLink type="facebook" />
-      <IconLink type="instagram" />
-      <IconLink type="github" />
-    </StyledFooter>
-  );
-}
-```
 
 Overall I enjoyed working with styles using Styled Components. HTML, JS and CSS in one place. No need to constantly switch between html, css and js files.
 

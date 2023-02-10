@@ -104,7 +104,7 @@ Figma prototype: https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Busin
 |
 ├── 📝 .gitignore             Instructions for Git about what files to ignore
 ├── 📝 LICENSE                MIT License. Basically you can do whatever you want with the code
-├── 📝 README.md
+├── 📝 README.md              Project description
 ├── 📝 package-lock.json      Keeps track of the exact version of every package that is installed
 ├── 📝 package.json           Various metadata relevant to the project, scripts, dependencies
 └── 📝 vite.config.ts         Vite configuration file
